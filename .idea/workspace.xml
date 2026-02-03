@@ -55,7 +55,9 @@
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "D:/Madhan Kumar/Web Development Projects/esperanza",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -90,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770127905922</updated>
-      <workItem from="1770127907209" duration="328000" />
+      <workItem from="1770127907209" duration="633000" />
     </task>
     <servers />
   </component>
